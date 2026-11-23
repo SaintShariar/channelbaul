@@ -1,0 +1,431 @@
+{
+  "youtube_channels": [
+    {
+      "id": "UCHz7evqeeg1xGkS-h-AFkKA",
+      "name": "Channel Baul",
+      "topic": "own",
+      "own": true,
+      "lang": "en",
+      "priority": 100,
+      "max_per_source": 500,
+      "handle": "@ChannelBaul420"
+    },
+    {
+      "id": "UCFB6TKECfz1VZhpxBTre8tw",
+      "name": "Marijuana Moment",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 96,
+      "max_per_source": 12
+    },
+    {
+      "id": "UCQ9NsPJMStJxySQR-RcbrDg",
+      "name": "NORML",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 94,
+      "max_per_source": 10
+    },
+    {
+      "id": "UCFQ7vc-dWlSUZd6OqsAepMA",
+      "name": "High Times",
+      "topic": "cannabis",
+      "lang": "en",
+      "priority": 92,
+      "max_per_source": 10
+    },
+    {
+      "id": "UC2_xRaxUGzxEMvlReHsH6nA",
+      "name": "Weedmaps",
+      "topic": "cannabis",
+      "lang": "en",
+      "priority": 88,
+      "max_per_source": 8
+    },
+    {
+      "id": "UCzXaJk2RhkiU8eRHUBuB3mw",
+      "name": "Drug Policy Alliance",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 90,
+      "max_per_source": 8
+    },
+    {
+      "id": "UCGFlYDW_Bz6OwXx3Bk1jJnA",
+      "name": "DoubleBlind Mag",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 92,
+      "max_per_source": 8
+    },
+    {
+      "id": "UCID_dLlFQJGazS3hTQ7lf8A",
+      "name": "Third Wave",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 88,
+      "max_per_source": 8
+    },
+    {
+      "id": "UCJdG6hyuE02bKo_mwMhc0vQ",
+      "name": "Psychedelic Alpha",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 90,
+      "max_per_source": 8
+    },
+    {
+      "id": "UCFwmCYrR0qQUWzkosSI-scQ",
+      "name": "Pot TV",
+      "topic": "cannabis",
+      "lang": "en",
+      "priority": 84,
+      "max_per_source": 6
+    },
+    {
+      "id": "UCDlkrCpxEOO1qLwCs_Br_Wg",
+      "name": "The Cannabist",
+      "topic": "cannabis",
+      "lang": "en",
+      "priority": 84,
+      "max_per_source": 6
+    },
+    {
+      "id": "UC63o9UVMm_v6Ml05RgKunIQ",
+      "name": "MJBizDaily",
+      "topic": "cannabis",
+      "lang": "en",
+      "priority": 82,
+      "max_per_source": 6
+    },
+    {
+      "id": "UCCEXR-7eUon2b4Bieh8Za9g",
+      "name": "HempToday",
+      "topic": "hemp",
+      "lang": "en",
+      "priority": 86,
+      "max_per_source": 8
+    },
+    {
+      "id": "UCNxvns12jjn5RXkvbo3ro3w",
+      "name": "Filter Mag",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 86,
+      "max_per_source": 6
+    },
+    {
+      "id": "UC9cD66KNiyzQKexSOyuuB5w",
+      "name": "Talking Drugs",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 84,
+      "max_per_source": 6
+    },
+    {
+      "id": "UCtkEbTVV8Ky5xuIKbyFa-iQ",
+      "name": "How to Change Your Mind",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 84,
+      "max_per_source": 6
+    },
+    {
+      "id": "UCzuqhhs6NWbgTzMuM09WKDQ",
+      "name": "LastWeekTonight",
+      "topic": "gonzo",
+      "lang": "en",
+      "priority": 40,
+      "max_per_source": 3
+    },
+    {
+      "id": "UCfiwzLy-8yKzIbsmZTzxDgw",
+      "name": "Al Jazeera English",
+      "topic": "global",
+      "lang": "en",
+      "priority": 18,
+      "max_per_source": 2
+    }
+  ],
+  "youtube_handles": [
+    {
+      "handle": "@DemocracyNow",
+      "name": "Democracy Now!",
+      "topic": "news",
+      "lang": "en",
+      "priority": 24,
+      "max_per_source": 2
+    },
+    {
+      "handle": "@VICENews",
+      "name": "VICE News",
+      "topic": "gonzo",
+      "lang": "en",
+      "priority": 30,
+      "max_per_source": 2
+    },
+    {
+      "handle": "@TheIntercept",
+      "name": "The Intercept",
+      "topic": "news",
+      "lang": "en",
+      "priority": 22,
+      "max_per_source": 2
+    },
+    {
+      "handle": "@MiddleEastEye",
+      "name": "Middle East Eye",
+      "topic": "palestine",
+      "lang": "en",
+      "priority": 14,
+      "max_per_source": 2
+    }
+  ],
+  "news_rss": [
+    {
+      "url": "https://www.marijuanamoment.net/feed/",
+      "name": "Marijuana Moment",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 98,
+      "max_per_source": 14
+    },
+    {
+      "url": "https://norml.org/feed/",
+      "name": "NORML News",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 95,
+      "max_per_source": 12
+    },
+    {
+      "url": "https://hightimes.com/feed/",
+      "name": "High Times",
+      "topic": "cannabis",
+      "lang": "en",
+      "priority": 92,
+      "max_per_source": 10
+    },
+    {
+      "url": "https://doubleblindmag.com/feed/",
+      "name": "DoubleBlind",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 92,
+      "max_per_source": 10
+    },
+    {
+      "url": "https://psychedelicalpha.com/feed/atom/",
+      "name": "Psychedelic Alpha",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 90,
+      "max_per_source": 10
+    },
+    {
+      "url": "https://maps.org/feed/",
+      "name": "MAPS News",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 90,
+      "max_per_source": 8
+    },
+    {
+      "url": "https://thethirdwave.co/feed/",
+      "name": "Third Wave",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 88,
+      "max_per_source": 6
+    },
+    {
+      "url": "https://lucid.news/feed/",
+      "name": "Lucid News",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 86,
+      "max_per_source": 8
+    },
+    {
+      "url": "https://filtermag.org/feed/",
+      "name": "Filter Mag",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 88,
+      "max_per_source": 8
+    },
+    {
+      "url": "https://www.talkingdrugs.org/feed/",
+      "name": "Talking Drugs",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 86,
+      "max_per_source": 8
+    },
+    {
+      "url": "https://drugpolicy.org/feed/",
+      "name": "Drug Policy Alliance",
+      "topic": "legalization",
+      "lang": "en",
+      "priority": 88,
+      "max_per_source": 8
+    },
+    {
+      "url": "https://cannabisnow.com/feed/",
+      "name": "Cannabis Now",
+      "topic": "cannabis",
+      "lang": "en",
+      "priority": 86,
+      "max_per_source": 8
+    },
+    {
+      "url": "https://ganjapreneur.com/feed/",
+      "name": "Ganjapreneur",
+      "topic": "cannabis",
+      "lang": "en",
+      "priority": 84,
+      "max_per_source": 6
+    },
+    {
+      "url": "https://www.psypost.org/feed/",
+      "name": "PsyPost",
+      "topic": "psychedelics",
+      "lang": "en",
+      "priority": 78,
+      "max_per_source": 5
+    },
+    {
+      "url": "https://www.democracynow.org/democracynow.rss",
+      "name": "Democracy Now",
+      "topic": "news",
+      "lang": "en",
+      "priority": 20,
+      "max_per_source": 2
+    },
+    {
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "name": "Al Jazeera English",
+      "topic": "global",
+      "lang": "en",
+      "priority": 16,
+      "max_per_source": 2
+    },
+    {
+      "url": "https://www.middleeasteye.net/rss",
+      "name": "Middle East Eye",
+      "topic": "palestine",
+      "lang": "en",
+      "priority": 12,
+      "max_per_source": 2
+    },
+    {
+      "url": "https://mondoweiss.net/feed/",
+      "name": "Mondoweiss",
+      "topic": "palestine",
+      "lang": "en",
+      "priority": 12,
+      "max_per_source": 2
+    },
+    {
+      "url": "https://www.thedailystar.net/frontpage/rss.xml",
+      "name": "The Daily Star",
+      "topic": "bangladesh",
+      "lang": "en",
+      "priority": 28,
+      "max_per_source": 4
+    }
+  ],
+  "reddit": [
+    {
+      "sub": "cannabis",
+      "topic": "cannabis",
+      "priority": 80,
+      "max_per_source": 6
+    },
+    {
+      "sub": "weed",
+      "topic": "cannabis",
+      "priority": 80,
+      "max_per_source": 6
+    },
+    {
+      "sub": "Marijuana",
+      "topic": "legalization",
+      "priority": 84,
+      "max_per_source": 6
+    },
+    {
+      "sub": "hemp",
+      "topic": "hemp",
+      "priority": 78,
+      "max_per_source": 5
+    },
+    {
+      "sub": "CBD",
+      "topic": "hemp",
+      "priority": 76,
+      "max_per_source": 4
+    },
+    {
+      "sub": "Psychonaut",
+      "topic": "psychedelics",
+      "priority": 78,
+      "max_per_source": 5
+    },
+    {
+      "sub": "Psychedelics",
+      "topic": "psychedelics",
+      "priority": 78,
+      "max_per_source": 5
+    },
+    {
+      "sub": "bangladesh",
+      "topic": "bangladesh",
+      "priority": 26,
+      "max_per_source": 3
+    },
+    {
+      "sub": "Palestine",
+      "topic": "palestine",
+      "priority": 14,
+      "max_per_source": 2
+    }
+  ],
+  "topics": [
+    "own",
+    "cannabis",
+    "hemp",
+    "psychedelics",
+    "legalization",
+    "red_states",
+    "usa",
+    "bangladesh",
+    "uk",
+    "canada",
+    "south_asia",
+    "apac",
+    "global_south",
+    "palestine",
+    "gonzo",
+    "news",
+    "global"
+  ],
+  "prefer_lang": "en",
+  "drop_arabic_script": true,
+  "drop_non_latin_titles": true,
+  "theme_caps": {
+    "cannabis_family_min_pct": 55,
+    "cannabis_family_max_pct": 75,
+    "geo_family_max_pct": 22
+  },
+  "max_per_source": 8,
+  "max_total": 140,
+  "own_youtube_handle": "@ChannelBaul420",
+  "own_max_per_source": 500,
+  "instagram": {
+    "username": "baul_international",
+    "own": true,
+    "include_photos": false,
+    "note": "Public scrape best-effort; paste reel URLs in instagram-own.json or use Meta long-lived token (SECRETS.md). Embeds only — no video rehost."
+  }
+}
