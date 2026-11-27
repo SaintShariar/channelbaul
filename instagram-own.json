@@ -1,5 +1,18 @@
 {
   "username": "baul_international",
-  "note": "Paste public Instagram reel/post URLs below when scraping is blocked. Embeds use instagram.com/.../embed — video binaries are never downloaded.",
-  "items": []
+  "note": "Public Instagram reel/post URLs for @baul_international. Embeds only — no video rehost. Refresh via browser/manual when Instagram blocks API scrape.",
+  "items": [
+    { "url": "https://www.instagram.com/baul_international/reel/DflnMdyRy_-/" },
+    { "url": "https://www.instagram.com/baul_international/p/DfkVh8pxKBt/" },
+    { "url": "https://www.instagram.com/baul_international/reel/DfiqgXElEfT/" },
+    { "url": "https://www.instagram.com/baul_international/reel/DgO8ywfxrkN/" },
+    { "url": "https://www.instagram.com/baul_international/reel/DgNuVhIN1Mf/" },
+    { "url": "https://www.instagram.com/baul_international/p/DgNjAVoxR7M/" },
+    { "url": "https://www.instagram.com/baul_international/reel/DgNRWqtxAAi/" },
+    { "url": "https://www.instagram.com/baul_international/reel/DgLrzCJxHdJ/" },
+    { "url": "https://www.instagram.com/baul_international/reel/DgLfiRyS6FF/" },
+    { "url": "https://www.instagram.com/baul_international/p/DgKrTf2xsMc/" },
+    { "url": "https://www.instagram.com/baul_international/reel/DgFxTEXR4lm/" },
+    { "url": "https://www.instagram.com/baul_international/reel/DgEkiWvRspp/" }
+  ]
 }

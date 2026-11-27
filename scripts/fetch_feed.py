@@ -4,10 +4,14 @@
 American-English cannabis / hemp / psychedelic focus.
 Own Channel Baul always first. Arabic-script titles dropped (except own).
 Reddit often returns 403 — failures are logged and skipped.
-Run from repo root: py -3 scripts/fetch_feed.py
+Run from repo root:
+  py -3 scripts/fetch_feed.py            # full refresh (YouTube + IG + news)
+  py -3 scripts/fetch_feed.py --mode full
+  py -3 scripts/fetch_feed.py --mode breaking   # news/legalization only; keep own items
 """
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import sys
@@ -647,22 +651,59 @@ def source_limit(cfg: dict, entry: dict) -> int:
     return int(cfg.get("max_per_source", 8))
 
 
-def main() -> int:
-    cfg = load_sources()
-    max_total = int(cfg.get("max_total", 120))
-    drop_non_latin = bool(cfg.get("drop_non_latin_titles", cfg.get("drop_arabic_script", True)))
-    caps = cfg.get("theme_caps") or {}
+def load_existing_items() -> list[dict]:
+    if not OUT.exists():
+        return []
+    try:
+        data = json.loads(OUT.read_text(encoding="utf-8"))
+        return list(data.get("items") or [])
+    except Exception as e:  # noqa: BLE001
+        print(f"  could not read existing feed.json: {e}", file=sys.stderr)
+        return []
+
+
+def is_own_item(item: dict) -> bool:
+    if item.get("own"):
+        return True
+    plat = str(item.get("platform") or "")
+    if plat == "instagram":
+        return True
+    src = str(item.get("source") or "")
+    return bool(re.search(r"channel\s*baul|baul_international", src, re.I))
+
+
+def is_breaking_source(entry: dict) -> bool:
+    topic = str(entry.get("topic") or "").lower()
+    if topic in {"legalization", "cannabis", "hemp", "psychedelics", "red_states"}:
+        return True
+    name = str(entry.get("name") or "").lower()
+    return bool(
+        re.search(
+            r"marijuana|norml|hemp|cannabis|weed|psychedelic|maps|double.?blind|third.?wave|drug.?policy|leafly|high.?times",
+            name,
+            re.I,
+        )
+    )
+
+
+def collect_youtube(cfg: dict, *, own_only: bool = False, breaking_only: bool = False) -> list[dict]:
     items: list[dict] = []
     seen_channels: set[str] = set()
-
     for ch in cfg.get("youtube_channels", []):
         cid = ch.get("id")
         if not cid:
             continue
+        is_own = bool(ch.get("own"))
+        if own_only and not is_own:
+            continue
+        if breaking_only and not is_own and not is_breaking_source(ch):
+            continue
+        if breaking_only and is_own:
+            continue
         seen_channels.add(cid)
         lim = source_limit(cfg, ch)
-        print(f"YT channel {ch.get('name')} ({cid}) lim={lim} own={bool(ch.get('own'))}")
-        if ch.get("own"):
+        print(f"YT channel {ch.get('name')} ({cid}) lim={lim} own={is_own}")
+        if is_own:
             items.extend(build_own_youtube(ch, cfg, enrich))
         else:
             items.extend(
@@ -678,39 +719,46 @@ def main() -> int:
             )
         time.sleep(0.3)
 
-    print("Instagram @baul_international (own)")
-    items.extend(build_instagram_own(cfg, enrich))
-
-    for h in cfg.get("youtube_handles", []):
-        handle = h.get("handle") or ""
-        # Skip resolving own handle if channel id already fetched
-        if h.get("own") and seen_channels:
-            print(f"YT handle {handle} skipped (own channel id already fetched)")
-            continue
-        print(f"YT handle {handle}")
-        cid = resolve_handle(handle)
-        if not cid:
-            print(f"  could not resolve {handle}", file=sys.stderr)
-            continue
-        if cid in seen_channels:
-            print(f"  already have {cid}")
-            continue
-        seen_channels.add(cid)
-        lim = source_limit(cfg, h)
-        items.extend(
-            yt_entries(
-                cid,
-                h.get("name") or handle,
-                h.get("topic") or "global",
-                bool(h.get("own")),
-                lim,
-                h.get("lang") or "en",
-                int(h.get("priority") or 50),
+    if own_only or not breaking_only:
+        for h in cfg.get("youtube_handles", []):
+            handle = h.get("handle") or ""
+            if h.get("own") and seen_channels:
+                print(f"YT handle {handle} skipped (own channel id already fetched)")
+                continue
+            if breaking_only and not h.get("own") and not is_breaking_source(h):
+                continue
+            if own_only and not h.get("own"):
+                continue
+            print(f"YT handle {handle}")
+            cid = resolve_handle(handle)
+            if not cid:
+                print(f"  could not resolve {handle}", file=sys.stderr)
+                continue
+            if cid in seen_channels:
+                print(f"  already have {cid}")
+                continue
+            seen_channels.add(cid)
+            lim = source_limit(cfg, h)
+            items.extend(
+                yt_entries(
+                    cid,
+                    h.get("name") or handle,
+                    h.get("topic") or "global",
+                    bool(h.get("own")),
+                    lim,
+                    h.get("lang") or "en",
+                    int(h.get("priority") or 50),
+                )
             )
-        )
-        time.sleep(0.4)
+            time.sleep(0.4)
+    return items
 
+
+def collect_news(cfg: dict, *, breaking_only: bool = False) -> list[dict]:
+    items: list[dict] = []
     for feed in cfg.get("news_rss", []):
+        if breaking_only and not is_breaking_source(feed):
+            continue
         lim = source_limit(cfg, feed)
         print(f"RSS {feed.get('name')} lim={lim}")
         items.extend(
@@ -724,8 +772,14 @@ def main() -> int:
             )
         )
         time.sleep(0.2)
+    return items
 
+
+def collect_reddit(cfg: dict, *, breaking_only: bool = False) -> list[dict]:
+    items: list[dict] = []
     for r in cfg.get("reddit", []):
+        if breaking_only and not is_breaking_source(r):
+            continue
         lim = source_limit(cfg, r)
         print(f"Reddit r/{r.get('sub')} lim={lim}")
         items.extend(
@@ -738,20 +792,63 @@ def main() -> int:
             )
         )
         time.sleep(0.5)
+    return items
 
+
+def write_feed(items: list[dict], cfg: dict, mode: str) -> int:
+    max_total = int(cfg.get("max_total", 120))
+    drop_non_latin = bool(cfg.get("drop_non_latin_titles", cfg.get("drop_arabic_script", True)))
+    caps = cfg.get("theme_caps") or {}
     items = dedupe(items)
     items = filter_language(items, drop_non_latin)
     merged = apply_theme_caps(items, max_total, caps)
     clean = [strip_internal(i) for i in merged]
-
     payload = {
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "mode": mode,
         "items": clean,
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     report(clean)
-    print(f"Wrote {OUT} with {len(clean)} items")
+    print(f"Wrote {OUT} with {len(clean)} items (mode={mode})")
     return 0
+
+
+def run_full(cfg: dict) -> int:
+    items: list[dict] = []
+    items.extend(collect_youtube(cfg))
+    print("Instagram @baul_international (own)")
+    items.extend(build_instagram_own(cfg, enrich))
+    items.extend(collect_news(cfg))
+    items.extend(collect_reddit(cfg))
+    return write_feed(items, cfg, "full")
+
+
+def run_breaking(cfg: dict) -> int:
+    """Refresh legalization/news every 4h; keep prior own YouTube + Instagram items."""
+    existing = load_existing_items()
+    kept_own = [i for i in existing if is_own_item(i)]
+    print(f"Breaking mode: keeping {len(kept_own)} own items from existing feed")
+    items: list[dict] = list(kept_own)
+    items.extend(collect_youtube(cfg, breaking_only=True))
+    items.extend(collect_news(cfg, breaking_only=True))
+    items.extend(collect_reddit(cfg, breaking_only=True))
+    return write_feed(items, cfg, "breaking")
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Build Channelbaul feed.json")
+    parser.add_argument(
+        "--mode",
+        choices=("full", "breaking"),
+        default="full",
+        help="full = YouTube+IG+news daily; breaking = legalization news every 4h",
+    )
+    args = parser.parse_args()
+    cfg = load_sources()
+    if args.mode == "breaking":
+        return run_breaking(cfg)
+    return run_full(cfg)
 
 
 if __name__ == "__main__":
