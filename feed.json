@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27T18:50:59Z",
- "mode": "full",
+ "generated": "2026-11-27T19:42:35Z",
+ "mode": "breaking",
  "items": [
   {
    "id": "yt:C7Ddus9lhRM",
@@ -1318,7 +1318,33 @@
    "breaking": false
   },
   {
-   "id": "rss:967629713943",
+   "id": "rss:844808728697",
+   "platform": "article",
+   "source": "High Times",
+   "topic": "cannabis",
+   "own": false,
+   "title": "The Hemp Ban Comes for Weed Seeds December 11. A Breeder Warns It Could Limit Which Strains You Can Grow.",
+   "url": "https://hightimes.com/grow/cannabis-seed-ban-genetics-breeder/?utm_source=rss&utm_medium=rss&utm_campaign=cannabis-seed-ban-genetics-breeder",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Fri, 27 Nov 2026 19:18:02 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "High Times",
+   "permalink": "https://hightimes.com/grow/cannabis-seed-ban-genetics-breeder/?utm_source=rss&utm_medium=rss&utm_campaign=cannabis-seed-ban-genetics-breeder",
+   "lang": "en",
+   "tags": [
+    "cannabis",
+    "hemp",
+    "breaking",
+    "legalization"
+   ],
+   "breaking": true
+  },
+  {
+   "id": "rss:265236376358",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -1345,7 +1371,7 @@
    "breaking": true
   },
   {
-   "id": "rss:439856263569",
+   "id": "rss:338037932701",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -1371,7 +1397,7 @@
    "breaking": true
   },
   {
-   "id": "rss:691713421019",
+   "id": "rss:224467342694",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1397,7 +1423,7 @@
    "breaking": true
   },
   {
-   "id": "rss:430275586544",
+   "id": "rss:724746072144",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1449,7 +1475,7 @@
    "breaking": true
   },
   {
-   "id": "rss:837984235647",
+   "id": "rss:28257855785",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1475,7 +1501,7 @@
    "breaking": true
   },
   {
-   "id": "rss:746367804431",
+   "id": "rss:936158436837",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1501,7 +1527,7 @@
    "breaking": true
   },
   {
-   "id": "rss:130039471203",
+   "id": "rss:728375196808",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1527,7 +1553,7 @@
    "breaking": true
   },
   {
-   "id": "rss:570832280072",
+   "id": "rss:944129908757",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1552,7 +1578,7 @@
    "breaking": true
   },
   {
-   "id": "rss:43777602302",
+   "id": "rss:949125404302",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1577,7 +1603,7 @@
    "breaking": true
   },
   {
-   "id": "rss:827013274529",
+   "id": "rss:877167301633",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -1603,7 +1629,7 @@
    "breaking": true
   },
   {
-   "id": "rss:863504459273",
+   "id": "rss:114068747941",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1628,7 +1654,7 @@
    "breaking": true
   },
   {
-   "id": "rss:2606823389",
+   "id": "rss:517025074482",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -1653,7 +1679,7 @@
    "breaking": true
   },
   {
-   "id": "rss:852834452627",
+   "id": "rss:996623804807",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1678,7 +1704,7 @@
    "breaking": true
   },
   {
-   "id": "rss:180558383868",
+   "id": "rss:543554142687",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1703,7 +1729,7 @@
    "breaking": true
   },
   {
-   "id": "rss:429141207585",
+   "id": "rss:518060384646",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1728,7 +1754,7 @@
    "breaking": true
   },
   {
-   "id": "rss:19385571836",
+   "id": "rss:891601342187",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1753,7 +1779,7 @@
    "breaking": true
   },
   {
-   "id": "rss:342744125941",
+   "id": "rss:777765773135",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1778,7 +1804,7 @@
    "breaking": true
   },
   {
-   "id": "rss:388565872182",
+   "id": "rss:496282601876",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -1803,7 +1829,7 @@
    "breaking": true
   },
   {
-   "id": "rss:701622691570",
+   "id": "rss:211611282750",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -1829,7 +1855,7 @@
    "breaking": true
   },
   {
-   "id": "rss:36003927111",
+   "id": "rss:370575659175",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -1880,7 +1906,7 @@
    "breaking": true
   },
   {
-   "id": "rss:233294044386",
+   "id": "rss:45561484734",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1905,7 +1931,7 @@
    "breaking": true
   },
   {
-   "id": "rss:637452986947",
+   "id": "rss:850526241814",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1930,7 +1956,7 @@
    "breaking": true
   },
   {
-   "id": "rss:595675900022",
+   "id": "rss:3475305567",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1956,7 +1982,7 @@
    "breaking": true
   },
   {
-   "id": "rss:583323615194",
+   "id": "rss:289945757434",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1981,7 +2007,7 @@
    "breaking": true
   },
   {
-   "id": "rss:117601186016",
+   "id": "rss:519136193542",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -2007,7 +2033,7 @@
    "breaking": true
   },
   {
-   "id": "rss:906653282443",
+   "id": "rss:448704116025",
    "platform": "article",
    "source": "Filter Mag",
    "topic": "legalization",
@@ -2032,7 +2058,7 @@
    "breaking": true
   },
   {
-   "id": "rss:951461133245",
+   "id": "rss:516508885848",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -2082,7 +2108,31 @@
    "breaking": true
   },
   {
-   "id": "rss:927785307952",
+   "id": "rss:960093317794",
+   "platform": "article",
+   "source": "High Times",
+   "topic": "cannabis",
+   "own": false,
+   "title": "Colombia’s Top Court Backs Rastafari Church’s Right to Use Cannabis as a Sacrament",
+   "url": "https://hightimes.com/news/colombia-rastafari-cannabis-sacrament-court/?utm_source=rss&utm_medium=rss&utm_campaign=colombia-rastafari-cannabis-sacrament-court",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Fri, 27 Nov 2026 18:59:18 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "High Times",
+   "permalink": "https://hightimes.com/news/colombia-rastafari-cannabis-sacrament-court/?utm_source=rss&utm_medium=rss&utm_campaign=colombia-rastafari-cannabis-sacrament-court",
+   "lang": "en",
+   "tags": [
+    "cannabis",
+    "breaking"
+   ],
+   "breaking": true
+  },
+  {
+   "id": "rss:546034639845",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -2130,7 +2180,7 @@
    "breaking": true
   },
   {
-   "id": "rss:910112624135",
+   "id": "rss:786618415116",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2154,7 +2204,30 @@
    "breaking": true
   },
   {
-   "id": "rss:165017288851",
+   "id": "rss:715992452342",
+   "platform": "article",
+   "source": "PsyPost",
+   "topic": "psychedelics",
+   "own": false,
+   "title": "Your scrambled eggs aren’t just breakfast —  scientists found eating at least five a week is linked to a 27 percent lower Alzheimer’s risk",
+   "url": "https://www.psypost.org/your-scrambled-eggs-arent-just-breakfast-scientists-found-eating-at-least-five-a-week-is-linked-to-a-27-percent-lower-alzheimers-risk/",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Fri, 27 Nov 2026 19:00:30 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "PsyPost",
+   "permalink": "https://www.psypost.org/your-scrambled-eggs-arent-just-breakfast-scientists-found-eating-at-least-five-a-week-is-linked-to-a-27-percent-lower-alzheimers-risk/",
+   "lang": "en",
+   "tags": [
+    "psychedelics"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "rss:147448614451",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
@@ -2177,7 +2250,7 @@
    "breaking": false
   },
   {
-   "id": "rss:472239102408",
+   "id": "rss:838083773411",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
@@ -2200,7 +2273,7 @@
    "breaking": false
   },
   {
-   "id": "rss:107651667534",
+   "id": "rss:868616897131",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2224,31 +2297,7 @@
    "breaking": true
   },
   {
-   "id": "rss:632480335993",
-   "platform": "article",
-   "source": "High Times",
-   "topic": "cannabis",
-   "own": false,
-   "title": "I Breed Weed for a Living. A New Federal Law Could Cut Off the Seeds I Need to Create New Strains.",
-   "url": "https://hightimes.com/grow/cannabis-seed-ban-genetics-breeder/?utm_source=rss&utm_medium=rss&utm_campaign=cannabis-seed-ban-genetics-breeder",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Wed, 25 Nov 2026 14:09:00 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "High Times",
-   "permalink": "https://hightimes.com/grow/cannabis-seed-ban-genetics-breeder/?utm_source=rss&utm_medium=rss&utm_campaign=cannabis-seed-ban-genetics-breeder",
-   "lang": "en",
-   "tags": [
-    "cannabis",
-    "breaking"
-   ],
-   "breaking": true
-  },
-  {
-   "id": "rss:817186746036",
+   "id": "rss:274699670574",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
@@ -2271,7 +2320,7 @@
    "breaking": false
   },
   {
-   "id": "rss:301922309451",
+   "id": "rss:245053615541",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
@@ -2294,30 +2343,7 @@
    "breaking": false
   },
   {
-   "id": "rss:507049443841",
-   "platform": "article",
-   "source": "PsyPost",
-   "topic": "psychedelics",
-   "own": false,
-   "title": "Psilocybin-assisted therapy linked to reduced drinking and higher odds of abstinence",
-   "url": "https://www.psypost.org/psilocybin-assisted-therapy-linked-to-reduced-drinking-and-higher-odds-of-abstinence/",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Fri, 27 Nov 2026 13:00:55 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "PsyPost",
-   "permalink": "https://www.psypost.org/psilocybin-assisted-therapy-linked-to-reduced-drinking-and-higher-odds-of-abstinence/",
-   "lang": "en",
-   "tags": [
-    "psychedelics"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "rss:651507004447",
+   "id": "rss:511170030339",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2341,7 +2367,7 @@
    "breaking": true
   },
   {
-   "id": "rss:401398874392",
+   "id": "rss:665332423132",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2365,7 +2391,7 @@
    "breaking": true
   },
   {
-   "id": "rss:165303415458",
+   "id": "rss:550534797245",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2389,7 +2415,7 @@
    "breaking": true
   },
   {
-   "id": "rss:334376660179",
+   "id": "rss:933825027510",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2413,7 +2439,7 @@
    "breaking": true
   },
   {
-   "id": "rss:739529678767",
+   "id": "rss:832804976642",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2437,7 +2463,7 @@
    "breaking": true
   },
   {
-   "id": "rss:905574469535",
+   "id": "rss:524978595486",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2461,7 +2487,7 @@
    "breaking": true
   },
   {
-   "id": "rss:563172168588",
+   "id": "rss:335155098949",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2485,7 +2511,7 @@
    "breaking": true
   },
   {
-   "id": "rss:38954928089",
+   "id": "rss:310375219800",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2509,7 +2535,7 @@
    "breaking": true
   },
   {
-   "id": "rss:176253960340",
+   "id": "rss:147357971660",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2533,7 +2559,7 @@
    "breaking": true
   },
   {
-   "id": "rss:164848230976",
+   "id": "rss:380012508777",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2591,7 +2617,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/5Uf4rvWWiP4",
    "thumbnail": "https://i2.ytimg.com/vi/5Uf4rvWWiP4/hqdefault.jpg",
    "published": "2026-11-26T10:00:37+00:00",
-   "views": 27,
+   "views": 32,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2687,7 +2713,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/DjpuJsVGBmI",
    "thumbnail": "https://i1.ytimg.com/vi/DjpuJsVGBmI/hqdefault.jpg",
    "published": "2026-11-26T10:00:23+00:00",
-   "views": 39,
+   "views": 42,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2711,7 +2737,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/NGE2aCPdHRM",
    "thumbnail": "https://i3.ytimg.com/vi/NGE2aCPdHRM/hqdefault.jpg",
    "published": "2026-11-26T10:00:21+00:00",
-   "views": 32,
+   "views": 38,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2735,7 +2761,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/TUhqRuxPjH4",
    "thumbnail": "https://i1.ytimg.com/vi/TUhqRuxPjH4/hqdefault.jpg",
    "published": "2026-11-26T10:00:19+00:00",
-   "views": 12,
+   "views": 14,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2749,7 +2775,7 @@
    "breaking": true
   },
   {
-   "id": "rss:692959262412",
+   "id": "rss:652176816273",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -2784,7 +2810,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/ZPAH8JBkX_A",
    "thumbnail": "https://i3.ytimg.com/vi/ZPAH8JBkX_A/hqdefault.jpg",
    "published": "2026-11-24T21:00:24+00:00",
-   "views": 476,
+   "views": 477,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2798,7 +2824,7 @@
    "breaking": true
   },
   {
-   "id": "rss:615142136763",
+   "id": "rss:792886357739",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2822,7 +2848,7 @@
    "breaking": true
   },
   {
-   "id": "rss:772917052207",
+   "id": "rss:568712991805",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -2846,7 +2872,7 @@
    "breaking": true
   },
   {
-   "id": "rss:381349114484",
+   "id": "rss:392910633470",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2870,7 +2896,7 @@
    "breaking": true
   },
   {
-   "id": "rss:207717572781",
+   "id": "rss:597532947940",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -2942,7 +2968,7 @@
    "breaking": true
   },
   {
-   "id": "rss:848944261787",
+   "id": "rss:623200589285",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -2966,7 +2992,7 @@
    "breaking": true
   },
   {
-   "id": "rss:716823705392",
+   "id": "rss:638004168743",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -2990,7 +3016,7 @@
    "breaking": true
   },
   {
-   "id": "rss:726446712657",
+   "id": "rss:560884889448",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -3014,7 +3040,7 @@
    "breaking": true
   },
   {
-   "id": "rss:367741608283",
+   "id": "rss:832707250035",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -3038,7 +3064,7 @@
    "breaking": true
   },
   {
-   "id": "rss:296326324130",
+   "id": "rss:105975288456",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3111,7 +3137,7 @@
    "breaking": true
   },
   {
-   "id": "rss:409722513541",
+   "id": "rss:754027510000",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3135,7 +3161,7 @@
    "breaking": true
   },
   {
-   "id": "rss:108271751986",
+   "id": "rss:219329771535",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -3159,7 +3185,7 @@
    "breaking": true
   },
   {
-   "id": "rss:957693641520",
+   "id": "rss:99594185538",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3207,7 +3233,7 @@
    "breaking": true
   },
   {
-   "id": "rss:758716850544",
+   "id": "rss:854945399148",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -3231,7 +3257,7 @@
    "breaking": true
   },
   {
-   "id": "rss:535255870518",
+   "id": "rss:711169063992",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3247,30 +3273,6 @@
    "vertical": false,
    "author": "Cannabis Now",
    "permalink": "https://cannabisnow.com/conbud-yankee-stadium-bronx-dispensary/",
-   "lang": "en",
-   "tags": [
-    "cannabis",
-    "breaking"
-   ],
-   "breaking": true
-  },
-  {
-   "id": "rss:114837085783",
-   "platform": "article",
-   "source": "High Times",
-   "topic": "cannabis",
-   "own": false,
-   "title": "Make Every Day a Holiday: A Guide to the Holiday H-Bar Lineup",
-   "url": "https://hightimes.com/sponsored/holiday-h-bar-vape-lineup-guide/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-h-bar-vape-lineup-guide",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Fri, 20 Nov 2026 15:55:00 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "High Times",
-   "permalink": "https://hightimes.com/sponsored/holiday-h-bar-vape-lineup-guide/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-h-bar-vape-lineup-guide",
    "lang": "en",
    "tags": [
     "cannabis",
@@ -3327,7 +3329,7 @@
    "breaking": true
   },
   {
-   "id": "rss:751512926322",
+   "id": "rss:362616831630",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -3351,7 +3353,7 @@
    "breaking": true
   },
   {
-   "id": "rss:609354547819",
+   "id": "rss:866225839014",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -3376,7 +3378,7 @@
    "breaking": true
   },
   {
-   "id": "rss:986246794617",
+   "id": "rss:760380645570",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
