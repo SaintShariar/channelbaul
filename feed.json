@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T02:40:25Z",
+ "generated": "2026-11-28T12:57:27Z",
  "mode": "breaking",
  "items": [
   {
@@ -1318,7 +1318,7 @@
    "breaking": false
   },
   {
-   "id": "rss:491829895031",
+   "id": "rss:425995763648",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -1344,7 +1344,7 @@
    "breaking": true
   },
   {
-   "id": "rss:914604588776",
+   "id": "rss:541682377958",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -1371,7 +1371,7 @@
    "breaking": true
   },
   {
-   "id": "rss:795484107330",
+   "id": "rss:704788807647",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -1397,7 +1397,7 @@
    "breaking": true
   },
   {
-   "id": "rss:472644700969",
+   "id": "rss:719184382940",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1423,7 +1423,7 @@
    "breaking": true
   },
   {
-   "id": "rss:273366608949",
+   "id": "rss:301576739670",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1459,7 +1459,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/sLW0nbXDY30",
    "thumbnail": "https://i4.ytimg.com/vi/sLW0nbXDY30/hqdefault.jpg",
    "published": "2026-11-20T21:00:38+00:00",
-   "views": 8905,
+   "views": 8938,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -1475,7 +1475,7 @@
    "breaking": true
   },
   {
-   "id": "rss:303042301957",
+   "id": "rss:919004194852",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1501,7 +1501,7 @@
    "breaking": true
   },
   {
-   "id": "rss:267387110392",
+   "id": "rss:264277761788",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1527,7 +1527,7 @@
    "breaking": true
   },
   {
-   "id": "rss:224170795080",
+   "id": "rss:343174641027",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1553,7 +1553,7 @@
    "breaking": true
   },
   {
-   "id": "rss:779093523700",
+   "id": "rss:760514207645",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1578,7 +1578,7 @@
    "breaking": true
   },
   {
-   "id": "rss:111613555586",
+   "id": "rss:128110866393",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1603,7 +1603,7 @@
    "breaking": true
   },
   {
-   "id": "rss:382885998829",
+   "id": "rss:393101683931",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -1629,7 +1629,7 @@
    "breaking": true
   },
   {
-   "id": "rss:288099511524",
+   "id": "rss:36878571190",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1654,7 +1654,7 @@
    "breaking": true
   },
   {
-   "id": "rss:810167688677",
+   "id": "rss:18769768372",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -1679,7 +1679,7 @@
    "breaking": true
   },
   {
-   "id": "rss:917829921631",
+   "id": "rss:207303457083",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1704,7 +1704,7 @@
    "breaking": true
   },
   {
-   "id": "rss:112478167727",
+   "id": "rss:632471771844",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1729,7 +1729,7 @@
    "breaking": true
   },
   {
-   "id": "rss:729282534121",
+   "id": "rss:777993620559",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1754,7 +1754,7 @@
    "breaking": true
   },
   {
-   "id": "rss:866486567782",
+   "id": "rss:774209202724",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1779,7 +1779,7 @@
    "breaking": true
   },
   {
-   "id": "rss:432675634778",
+   "id": "rss:994116995405",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1804,7 +1804,7 @@
    "breaking": true
   },
   {
-   "id": "rss:132109630816",
+   "id": "rss:679513595870",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -1829,7 +1829,7 @@
    "breaking": true
   },
   {
-   "id": "rss:654059762658",
+   "id": "rss:165704807059",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -1855,7 +1855,7 @@
    "breaking": true
   },
   {
-   "id": "rss:885934091148",
+   "id": "rss:61386067174",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -1906,7 +1906,7 @@
    "breaking": true
   },
   {
-   "id": "rss:737936892190",
+   "id": "rss:845303714563",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1931,7 +1931,7 @@
    "breaking": true
   },
   {
-   "id": "rss:266670108544",
+   "id": "rss:736236745093",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1956,7 +1956,7 @@
    "breaking": true
   },
   {
-   "id": "rss:184970061711",
+   "id": "rss:728918407649",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1982,7 +1982,7 @@
    "breaking": true
   },
   {
-   "id": "rss:722088543643",
+   "id": "rss:615772020008",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -2007,7 +2007,7 @@
    "breaking": true
   },
   {
-   "id": "rss:234720424640",
+   "id": "rss:215527872189",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -2033,7 +2033,7 @@
    "breaking": true
   },
   {
-   "id": "rss:81497959530",
+   "id": "rss:206158381368",
    "platform": "article",
    "source": "Filter Mag",
    "topic": "legalization",
@@ -2058,7 +2058,7 @@
    "breaking": true
   },
   {
-   "id": "rss:3089585853",
+   "id": "rss:966738146636",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -2108,6 +2108,31 @@
    "breaking": true
   },
   {
+   "id": "rss:143895646985",
+   "platform": "article",
+   "source": "Cannabis Now",
+   "topic": "cannabis",
+   "own": false,
+   "title": "Massachusetts Keeps Legal Cannabis, Rejects Question 8",
+   "url": "https://cannabisnow.com/massachusetts-keeps-legal-cannabis-rejects-question-8/",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Sat, 28 Nov 2026 12:20:00 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "Cannabis Now",
+   "permalink": "https://cannabisnow.com/massachusetts-keeps-legal-cannabis-rejects-question-8/",
+   "lang": "en",
+   "tags": [
+    "cannabis",
+    "usa",
+    "breaking"
+   ],
+   "breaking": true
+  },
+  {
    "id": "yt:w5ApTKoAfH8",
    "platform": "youtube",
    "source": "High Times",
@@ -2118,7 +2143,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/w5ApTKoAfH8",
    "thumbnail": "https://i4.ytimg.com/vi/w5ApTKoAfH8/hqdefault.jpg",
    "published": "2026-11-27T21:00:00+00:00",
-   "views": 589,
+   "views": 831,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2132,7 +2157,7 @@
    "breaking": true
   },
   {
-   "id": "rss:794309857166",
+   "id": "rss:432302059854",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2156,7 +2181,7 @@
    "breaking": true
   },
   {
-   "id": "rss:714782739258",
+   "id": "rss:217815014423",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -2190,7 +2215,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/pudPe9UupIM",
    "thumbnail": "https://i1.ytimg.com/vi/pudPe9UupIM/hqdefault.jpg",
    "published": "2026-11-26T21:00:32+00:00",
-   "views": 1735,
+   "views": 1814,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2204,7 +2229,53 @@
    "breaking": true
   },
   {
-   "id": "rss:345034402389",
+   "id": "rss:31601849677",
+   "platform": "article",
+   "source": "PsyPost",
+   "topic": "psychedelics",
+   "own": false,
+   "title": "Caffeine reverses social memory deficits caused by sleep deprivation, mouse study finds",
+   "url": "https://www.psypost.org/caffeine-restores-social-memory-in-sleep-deprived-mice/",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Sat, 28 Nov 2026 12:00:52 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "PsyPost",
+   "permalink": "https://www.psypost.org/caffeine-restores-social-memory-in-sleep-deprived-mice/",
+   "lang": "en",
+   "tags": [
+    "psychedelics"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "rss:754881125394",
+   "platform": "article",
+   "source": "PsyPost",
+   "topic": "psychedelics",
+   "own": false,
+   "title": "When it comes to wanting a partner, sexual satisfaction and sex frequency tell different stories",
+   "url": "https://www.psypost.org/when-it-comes-to-wanting-a-partner-sexual-satisfaction-and-sex-frequency-tell-different-stories/",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Sat, 28 Nov 2026 11:00:49 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "PsyPost",
+   "permalink": "https://www.psypost.org/when-it-comes-to-wanting-a-partner-sexual-satisfaction-and-sex-frequency-tell-different-stories/",
+   "lang": "en",
+   "tags": [
+    "psychedelics"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "rss:948056765877",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
@@ -2227,7 +2298,7 @@
    "breaking": false
   },
   {
-   "id": "rss:515379622662",
+   "id": "rss:3706452884",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
@@ -2250,7 +2321,7 @@
    "breaking": false
   },
   {
-   "id": "rss:540501562686",
+   "id": "rss:455124087020",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2274,7 +2345,7 @@
    "breaking": true
   },
   {
-   "id": "rss:383757874972",
+   "id": "rss:534584396551",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
@@ -2297,53 +2368,7 @@
    "breaking": false
   },
   {
-   "id": "rss:327745740418",
-   "platform": "article",
-   "source": "PsyPost",
-   "topic": "psychedelics",
-   "own": false,
-   "title": "Sociologists found strict atheists aren’t the ones pairing science with ghosts and jinxes—that link appears in people straddling two worlds you’d expect to clash",
-   "url": "https://www.psypost.org/sociologists-found-strict-atheists-arent-the-ones-pairing-science-with-ghosts-and-jinxes-that-link-appears-in-people-straddling-two-worlds-youd-expect-to-clash/",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Fri, 27 Nov 2026 17:00:21 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "PsyPost",
-   "permalink": "https://www.psypost.org/sociologists-found-strict-atheists-arent-the-ones-pairing-science-with-ghosts-and-jinxes-that-link-appears-in-people-straddling-two-worlds-youd-expect-to-clash/",
-   "lang": "en",
-   "tags": [
-    "psychedelics"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "rss:505161058080",
-   "platform": "article",
-   "source": "PsyPost",
-   "topic": "psychedelics",
-   "own": false,
-   "title": "Testing the “Love Island effect”: Midseason body pressure predicts dieting, exercise, and cosmetic desires",
-   "url": "https://www.psypost.org/testing-the-love-island-effect-midseason-body-pressure-predicts-dieting-exercise-and-cosmetic-desires/",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Fri, 27 Nov 2026 15:00:14 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "PsyPost",
-   "permalink": "https://www.psypost.org/testing-the-love-island-effect-midseason-body-pressure-predicts-dieting-exercise-and-cosmetic-desires/",
-   "lang": "en",
-   "tags": [
-    "psychedelics"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "rss:815637906320",
+   "id": "rss:247564102351",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2367,7 +2392,7 @@
    "breaking": true
   },
   {
-   "id": "rss:574012120542",
+   "id": "rss:989565272029",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2391,7 +2416,7 @@
    "breaking": true
   },
   {
-   "id": "rss:967620313047",
+   "id": "rss:564124187518",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2415,7 +2440,7 @@
    "breaking": true
   },
   {
-   "id": "rss:853811384077",
+   "id": "rss:39703673199",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2439,7 +2464,7 @@
    "breaking": true
   },
   {
-   "id": "rss:541381791663",
+   "id": "rss:391350550600",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2463,7 +2488,7 @@
    "breaking": true
   },
   {
-   "id": "rss:171038410539",
+   "id": "rss:839962691215",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2487,7 +2512,7 @@
    "breaking": true
   },
   {
-   "id": "rss:24501848513",
+   "id": "rss:763948584752",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2511,7 +2536,7 @@
    "breaking": true
   },
   {
-   "id": "rss:966983817150",
+   "id": "rss:967573376668",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2535,7 +2560,7 @@
    "breaking": true
   },
   {
-   "id": "rss:628996493956",
+   "id": "rss:401549910202",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2559,7 +2584,7 @@
    "breaking": true
   },
   {
-   "id": "rss:826712716337",
+   "id": "rss:661078533872",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2583,7 +2608,7 @@
    "breaking": true
   },
   {
-   "id": "rss:178334011087",
+   "id": "rss:336604405959",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2617,7 +2642,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/U-DlQpHCopg",
    "thumbnail": "https://i2.ytimg.com/vi/U-DlQpHCopg/hqdefault.jpg",
    "published": "2026-11-26T10:00:40+00:00",
-   "views": 53,
+   "views": 58,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2641,7 +2666,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/5Uf4rvWWiP4",
    "thumbnail": "https://i2.ytimg.com/vi/5Uf4rvWWiP4/hqdefault.jpg",
    "published": "2026-11-26T10:00:37+00:00",
-   "views": 35,
+   "views": 37,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2665,7 +2690,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/9Df6gQTMmps",
    "thumbnail": "https://i2.ytimg.com/vi/9Df6gQTMmps/hqdefault.jpg",
    "published": "2026-11-26T10:00:37+00:00",
-   "views": 80,
+   "views": 81,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2689,7 +2714,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/FJi6-A5ju-Q",
    "thumbnail": "https://i3.ytimg.com/vi/FJi6-A5ju-Q/hqdefault.jpg",
    "published": "2026-11-26T10:00:31+00:00",
-   "views": 66,
+   "views": 93,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2713,7 +2738,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/t7RJwVoUmHA",
    "thumbnail": "https://i1.ytimg.com/vi/t7RJwVoUmHA/hqdefault.jpg",
    "published": "2026-11-26T10:00:29+00:00",
-   "views": 54,
+   "views": 55,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2737,7 +2762,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/DjpuJsVGBmI",
    "thumbnail": "https://i1.ytimg.com/vi/DjpuJsVGBmI/hqdefault.jpg",
    "published": "2026-11-26T10:00:23+00:00",
-   "views": 44,
+   "views": 47,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2761,7 +2786,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/NGE2aCPdHRM",
    "thumbnail": "https://i3.ytimg.com/vi/NGE2aCPdHRM/hqdefault.jpg",
    "published": "2026-11-26T10:00:21+00:00",
-   "views": 43,
+   "views": 44,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2799,7 +2824,7 @@
    "breaking": true
   },
   {
-   "id": "rss:119166309951",
+   "id": "rss:656236987681",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -2834,7 +2859,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/ZPAH8JBkX_A",
    "thumbnail": "https://i3.ytimg.com/vi/ZPAH8JBkX_A/hqdefault.jpg",
    "published": "2026-11-24T21:00:24+00:00",
-   "views": 489,
+   "views": 504,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2848,7 +2873,7 @@
    "breaking": true
   },
   {
-   "id": "rss:460154034422",
+   "id": "rss:57046784343",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2872,7 +2897,7 @@
    "breaking": true
   },
   {
-   "id": "rss:205811180275",
+   "id": "rss:38800712577",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -2896,7 +2921,7 @@
    "breaking": true
   },
   {
-   "id": "rss:628709880032",
+   "id": "rss:220034709652",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2920,7 +2945,7 @@
    "breaking": true
   },
   {
-   "id": "rss:391950083154",
+   "id": "rss:872254379100",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -2954,7 +2979,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/_ol0gbZ1TIs",
    "thumbnail": "https://i4.ytimg.com/vi/_ol0gbZ1TIs/hqdefault.jpg",
    "published": "2026-11-24T18:33:04+00:00",
-   "views": 267,
+   "views": 279,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2978,7 +3003,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/9rp3Z2Tt67k",
    "thumbnail": "https://i2.ytimg.com/vi/9rp3Z2Tt67k/hqdefault.jpg",
    "published": "2026-11-23T21:00:37+00:00",
-   "views": 420,
+   "views": 424,
    "score": null,
    "comments": null,
    "vertical": true,
@@ -2992,7 +3017,7 @@
    "breaking": true
   },
   {
-   "id": "rss:801741639258",
+   "id": "rss:187470663878",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -3016,7 +3041,7 @@
    "breaking": true
   },
   {
-   "id": "rss:649774354144",
+   "id": "rss:198840036124",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -3040,7 +3065,7 @@
    "breaking": true
   },
   {
-   "id": "rss:74449158613",
+   "id": "rss:202530036993",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -3064,7 +3089,7 @@
    "breaking": true
   },
   {
-   "id": "rss:862836362699",
+   "id": "rss:217045450611",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -3088,7 +3113,7 @@
    "breaking": true
   },
   {
-   "id": "rss:718831115661",
+   "id": "rss:550601687852",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3123,7 +3148,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/_IBkRHLvF5w",
    "thumbnail": "https://i4.ytimg.com/vi/_IBkRHLvF5w/hqdefault.jpg",
    "published": "2026-11-23T16:51:32+00:00",
-   "views": 330,
+   "views": 332,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -3147,7 +3172,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/XMsHUhDY_-k",
    "thumbnail": "https://i1.ytimg.com/vi/XMsHUhDY_-k/hqdefault.jpg",
    "published": "2026-11-22T21:00:30+00:00",
-   "views": 1595,
+   "views": 1606,
    "score": null,
    "comments": null,
    "vertical": true,
@@ -3161,7 +3186,7 @@
    "breaking": true
   },
   {
-   "id": "rss:573286619994",
+   "id": "rss:653640037560",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3185,7 +3210,7 @@
    "breaking": true
   },
   {
-   "id": "rss:300076796433",
+   "id": "rss:118293545391",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -3209,7 +3234,7 @@
    "breaking": true
   },
   {
-   "id": "rss:675717557596",
+   "id": "rss:669491981856",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3243,7 +3268,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/D2khyR8KYbw",
    "thumbnail": "https://i1.ytimg.com/vi/D2khyR8KYbw/hqdefault.jpg",
    "published": "2026-11-21T21:00:12+00:00",
-   "views": 1515,
+   "views": 1535,
    "score": null,
    "comments": null,
    "vertical": true,
@@ -3257,7 +3282,7 @@
    "breaking": true
   },
   {
-   "id": "rss:166739720423",
+   "id": "rss:457423121256",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -3276,30 +3301,6 @@
    "lang": "en",
    "tags": [
     "legalization",
-    "breaking"
-   ],
-   "breaking": true
-  },
-  {
-   "id": "rss:478462681878",
-   "platform": "article",
-   "source": "Cannabis Now",
-   "topic": "cannabis",
-   "own": false,
-   "title": "Here’s the Pitch! ConBud Yankee Stadium Delivers Cannabis and Justice to the Bronx",
-   "url": "https://cannabisnow.com/conbud-yankee-stadium-bronx-dispensary/",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Sat, 21 Nov 2026 12:20:00 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "Cannabis Now",
-   "permalink": "https://cannabisnow.com/conbud-yankee-stadium-bronx-dispensary/",
-   "lang": "en",
-   "tags": [
-    "cannabis",
     "breaking"
    ],
    "breaking": true
@@ -3339,7 +3340,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/3xCWaRAAjd0",
    "thumbnail": "https://i4.ytimg.com/vi/3xCWaRAAjd0/hqdefault.jpg",
    "published": "2026-11-19T21:00:11+00:00",
-   "views": 1241,
+   "views": 1253,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -3353,7 +3354,7 @@
    "breaking": true
   },
   {
-   "id": "rss:385283382237",
+   "id": "rss:731250076724",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -3377,7 +3378,7 @@
    "breaking": true
   },
   {
-   "id": "rss:249953426070",
+   "id": "rss:304617981588",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
