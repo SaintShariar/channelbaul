@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-28T12:57:27Z",
- "mode": "breaking",
+ "generated": "2026-11-28T17:30:59Z",
+ "mode": "full",
  "items": [
   {
    "id": "yt:C7Ddus9lhRM",
@@ -61,7 +61,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/9YcYgB4VCww",
    "thumbnail": "https://i2.ytimg.com/vi/9YcYgB4VCww/hqdefault.jpg",
    "published": "2026-11-26T02:04:29+00:00",
-   "views": 66,
+   "views": 94,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -84,7 +84,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/kX3asMeSA8Y",
    "thumbnail": "https://i4.ytimg.com/vi/kX3asMeSA8Y/hqdefault.jpg",
    "published": "2026-11-25T23:09:38+00:00",
-   "views": 4,
+   "views": 5,
    "score": null,
    "comments": null,
    "vertical": true,
@@ -202,7 +202,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/SdXrqSDNgdQ",
    "thumbnail": "https://i4.ytimg.com/vi/SdXrqSDNgdQ/hqdefault.jpg",
    "published": "2026-11-21T18:08:24+00:00",
-   "views": 10,
+   "views": 11,
    "score": null,
    "comments": null,
    "vertical": true,
@@ -1318,7 +1318,34 @@
    "breaking": false
   },
   {
-   "id": "rss:425995763648",
+   "id": "rss:133520062615",
+   "platform": "article",
+   "source": "Marijuana Moment",
+   "topic": "legalization",
+   "own": false,
+   "title": "Minnesota Will Allow Continued Hemp THC Product Sales Even If Federal Ban Takes Effect, Top Cannabis Official Says",
+   "url": "https://www.marijuanamoment.net/minnesota-will-allow-continued-hemp-thc-product-sales-even-if-federal-ban-takes-effect-top-cannabis-official-says/",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Sat, 28 Nov 2026 14:02:21 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "Marijuana Moment",
+   "permalink": "https://www.marijuanamoment.net/minnesota-will-allow-continued-hemp-thc-product-sales-even-if-federal-ban-takes-effect-top-cannabis-official-says/",
+   "lang": "en",
+   "tags": [
+    "legalization",
+    "cannabis",
+    "hemp",
+    "usa",
+    "breaking"
+   ],
+   "breaking": true
+  },
+  {
+   "id": "rss:754931022743",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -1344,34 +1371,7 @@
    "breaking": true
   },
   {
-   "id": "rss:541682377958",
-   "platform": "article",
-   "source": "High Times",
-   "topic": "cannabis",
-   "own": false,
-   "title": "Washington Is About to Ban Most Hemp THC. Some States Will Keep Selling It Anyway.",
-   "url": "https://hightimes.com/news/hemp-ban-states-keep-selling-thc-december-11/?utm_source=rss&utm_medium=rss&utm_campaign=hemp-ban-states-keep-selling-thc-december-11",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Sun, 22 Nov 2026 14:09:00 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "High Times",
-   "permalink": "https://hightimes.com/news/hemp-ban-states-keep-selling-thc-december-11/?utm_source=rss&utm_medium=rss&utm_campaign=hemp-ban-states-keep-selling-thc-december-11",
-   "lang": "en",
-   "tags": [
-    "cannabis",
-    "hemp",
-    "usa",
-    "breaking",
-    "legalization"
-   ],
-   "breaking": true
-  },
-  {
-   "id": "rss:704788807647",
+   "id": "rss:106049107021",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -1397,7 +1397,7 @@
    "breaking": true
   },
   {
-   "id": "rss:719184382940",
+   "id": "rss:840173384475",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1423,32 +1423,6 @@
    "breaking": true
   },
   {
-   "id": "rss:301576739670",
-   "platform": "article",
-   "source": "Marijuana Moment",
-   "topic": "legalization",
-   "own": false,
-   "title": "South Carolina Health Officials Promise To Address Senator’s Medical Marijuana Access Concerns Within 30 Days",
-   "url": "https://www.marijuanamoment.net/south-carolina-health-officials-promise-to-address-senators-medical-marijuana-access-concerns-within-30-days/",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Wed, 25 Nov 2026 12:24:21 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "Marijuana Moment",
-   "permalink": "https://www.marijuanamoment.net/south-carolina-health-officials-promise-to-address-senators-medical-marijuana-access-concerns-within-30-days/",
-   "lang": "en",
-   "tags": [
-    "legalization",
-    "cannabis",
-    "red_states",
-    "breaking"
-   ],
-   "breaking": true
-  },
-  {
    "id": "yt:sLW0nbXDY30",
    "platform": "youtube",
    "source": "High Times",
@@ -1459,7 +1433,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/sLW0nbXDY30",
    "thumbnail": "https://i4.ytimg.com/vi/sLW0nbXDY30/hqdefault.jpg",
    "published": "2026-11-20T21:00:38+00:00",
-   "views": 8938,
+   "views": 8975,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -1475,7 +1449,7 @@
    "breaking": true
   },
   {
-   "id": "rss:919004194852",
+   "id": "rss:523599867392",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1501,7 +1475,7 @@
    "breaking": true
   },
   {
-   "id": "rss:264277761788",
+   "id": "rss:803636800731",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1527,7 +1501,7 @@
    "breaking": true
   },
   {
-   "id": "rss:343174641027",
+   "id": "rss:736073002804",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1553,7 +1527,7 @@
    "breaking": true
   },
   {
-   "id": "rss:760514207645",
+   "id": "rss:490459783590",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1578,7 +1552,7 @@
    "breaking": true
   },
   {
-   "id": "rss:128110866393",
+   "id": "rss:817222301973",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1603,7 +1577,7 @@
    "breaking": true
   },
   {
-   "id": "rss:393101683931",
+   "id": "rss:295595205568",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -1629,7 +1603,7 @@
    "breaking": true
   },
   {
-   "id": "rss:36878571190",
+   "id": "rss:134978472163",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1654,7 +1628,7 @@
    "breaking": true
   },
   {
-   "id": "rss:18769768372",
+   "id": "rss:255061584983",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -1679,7 +1653,7 @@
    "breaking": true
   },
   {
-   "id": "rss:207303457083",
+   "id": "rss:979284154332",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1704,7 +1678,7 @@
    "breaking": true
   },
   {
-   "id": "rss:632471771844",
+   "id": "rss:227285826666",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1729,7 +1703,7 @@
    "breaking": true
   },
   {
-   "id": "rss:777993620559",
+   "id": "rss:266697502091",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1754,7 +1728,7 @@
    "breaking": true
   },
   {
-   "id": "rss:774209202724",
+   "id": "rss:870686053410",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1779,7 +1753,7 @@
    "breaking": true
   },
   {
-   "id": "rss:994116995405",
+   "id": "rss:198226555494",
    "platform": "article",
    "source": "Marijuana Moment",
    "topic": "legalization",
@@ -1804,7 +1778,7 @@
    "breaking": true
   },
   {
-   "id": "rss:679513595870",
+   "id": "rss:896659920320",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -1829,7 +1803,7 @@
    "breaking": true
   },
   {
-   "id": "rss:165704807059",
+   "id": "rss:423217256674",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -1855,7 +1829,7 @@
    "breaking": true
   },
   {
-   "id": "rss:61386067174",
+   "id": "rss:842689239957",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -1906,7 +1880,7 @@
    "breaking": true
   },
   {
-   "id": "rss:845303714563",
+   "id": "rss:303241460365",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1931,7 +1905,7 @@
    "breaking": true
   },
   {
-   "id": "rss:736236745093",
+   "id": "rss:289776564173",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1956,7 +1930,7 @@
    "breaking": true
   },
   {
-   "id": "rss:728918407649",
+   "id": "rss:373143266048",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -1982,7 +1956,7 @@
    "breaking": true
   },
   {
-   "id": "rss:615772020008",
+   "id": "rss:656857720155",
    "platform": "article",
    "source": "NORML News",
    "topic": "legalization",
@@ -2007,7 +1981,7 @@
    "breaking": true
   },
   {
-   "id": "rss:215527872189",
+   "id": "rss:258207105967",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -2033,7 +2007,7 @@
    "breaking": true
   },
   {
-   "id": "rss:206158381368",
+   "id": "rss:266830310454",
    "platform": "article",
    "source": "Filter Mag",
    "topic": "legalization",
@@ -2058,7 +2032,7 @@
    "breaking": true
   },
   {
-   "id": "rss:966738146636",
+   "id": "rss:126492874865",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -2108,7 +2082,55 @@
    "breaking": true
   },
   {
-   "id": "rss:143895646985",
+   "id": "rss:554764094022",
+   "platform": "article",
+   "source": "High Times",
+   "topic": "cannabis",
+   "own": false,
+   "title": "One Grower Lit His Weed Plants From Below. He Says Under-Canopy Lighting Boosted Yields 30%.",
+   "url": "https://hightimes.com/grow/under-canopy-lighting-far-red-xray-cannabis-growers/?utm_source=rss&utm_medium=rss&utm_campaign=under-canopy-lighting-far-red-xray-cannabis-growers",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Sat, 28 Nov 2026 14:09:00 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "High Times",
+   "permalink": "https://hightimes.com/grow/under-canopy-lighting-far-red-xray-cannabis-growers/?utm_source=rss&utm_medium=rss&utm_campaign=under-canopy-lighting-far-red-xray-cannabis-growers",
+   "lang": "en",
+   "tags": [
+    "cannabis",
+    "breaking"
+   ],
+   "breaking": true
+  },
+  {
+   "id": "yt:HjOiPP3D3iM",
+   "platform": "youtube",
+   "source": "High Times",
+   "topic": "cannabis",
+   "own": false,
+   "title": "Inside Barcelona’s Terps Army Cannabis Club | Cloud Atlas EP 16 | High Times",
+   "url": "https://www.youtube.com/shorts/HjOiPP3D3iM",
+   "embed": "https://www.youtube-nocookie.com/embed/HjOiPP3D3iM",
+   "thumbnail": "https://i1.ytimg.com/vi/HjOiPP3D3iM/hqdefault.jpg",
+   "published": "2026-11-28T14:00:11+00:00",
+   "views": 103,
+   "score": null,
+   "comments": null,
+   "vertical": true,
+   "author": "High Times",
+   "permalink": null,
+   "lang": "en",
+   "tags": [
+    "cannabis",
+    "breaking"
+   ],
+   "breaking": true
+  },
+  {
+   "id": "rss:272455353671",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -2143,7 +2165,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/w5ApTKoAfH8",
    "thumbnail": "https://i4.ytimg.com/vi/w5ApTKoAfH8/hqdefault.jpg",
    "published": "2026-11-27T21:00:00+00:00",
-   "views": 831,
+   "views": 873,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2157,7 +2179,7 @@
    "breaking": true
   },
   {
-   "id": "rss:432302059854",
+   "id": "rss:656688454030",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2181,7 +2203,7 @@
    "breaking": true
   },
   {
-   "id": "rss:217815014423",
+   "id": "rss:741825739713",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -2215,7 +2237,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/pudPe9UupIM",
    "thumbnail": "https://i1.ytimg.com/vi/pudPe9UupIM/hqdefault.jpg",
    "published": "2026-11-26T21:00:32+00:00",
-   "views": 1814,
+   "views": 1834,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2229,22 +2251,22 @@
    "breaking": true
   },
   {
-   "id": "rss:31601849677",
+   "id": "rss:461690168951",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
    "own": false,
-   "title": "Caffeine reverses social memory deficits caused by sleep deprivation, mouse study finds",
-   "url": "https://www.psypost.org/caffeine-restores-social-memory-in-sleep-deprived-mice/",
+   "title": "Speaking more than one language isn’t just about keeping your mind sharp — scientists found it tracks with staying physically healthier too",
+   "url": "https://www.psypost.org/speaking-more-than-one-language-isnt-just-about-keeping-your-mind-sharp-scientists-found-it-tracks-with-staying-physically-healthier-too/",
    "embed": "",
    "thumbnail": "",
-   "published": "Sat, 28 Nov 2026 12:00:52 +0000",
+   "published": "Sat, 28 Nov 2026 17:00:31 +0000",
    "views": null,
    "score": null,
    "comments": null,
    "vertical": false,
    "author": "PsyPost",
-   "permalink": "https://www.psypost.org/caffeine-restores-social-memory-in-sleep-deprived-mice/",
+   "permalink": "https://www.psypost.org/speaking-more-than-one-language-isnt-just-about-keeping-your-mind-sharp-scientists-found-it-tracks-with-staying-physically-healthier-too/",
    "lang": "en",
    "tags": [
     "psychedelics"
@@ -2252,22 +2274,22 @@
    "breaking": false
   },
   {
-   "id": "rss:754881125394",
+   "id": "rss:611597776457",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
    "own": false,
-   "title": "When it comes to wanting a partner, sexual satisfaction and sex frequency tell different stories",
-   "url": "https://www.psypost.org/when-it-comes-to-wanting-a-partner-sexual-satisfaction-and-sex-frequency-tell-different-stories/",
+   "title": "Evening carbohydrates linked to slightly longer sleep in toddlers",
+   "url": "https://www.psypost.org/evening-carbohydrates-linked-to-slightly-longer-sleep-in-toddlers/",
    "embed": "",
    "thumbnail": "",
-   "published": "Sat, 28 Nov 2026 11:00:49 +0000",
+   "published": "Sat, 28 Nov 2026 17:00:10 +0000",
    "views": null,
    "score": null,
    "comments": null,
    "vertical": false,
    "author": "PsyPost",
-   "permalink": "https://www.psypost.org/when-it-comes-to-wanting-a-partner-sexual-satisfaction-and-sex-frequency-tell-different-stories/",
+   "permalink": "https://www.psypost.org/evening-carbohydrates-linked-to-slightly-longer-sleep-in-toddlers/",
    "lang": "en",
    "tags": [
     "psychedelics"
@@ -2275,22 +2297,22 @@
    "breaking": false
   },
   {
-   "id": "rss:948056765877",
+   "id": "rss:510693197655",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
    "own": false,
-   "title": "Dysfunctional family patterns linked to adolescent depressive symptoms",
-   "url": "https://www.psypost.org/how-emotional-abuse-and-family-dynamics-shape-teen-depression-over-time/",
+   "title": "Calming kids with screens creates a developmental feedback loop for most families",
+   "url": "https://www.psypost.org/calming-kids-with-screens-creates-a-developmental-feedback-loop-for-most-familie/",
    "embed": "",
    "thumbnail": "",
-   "published": "Fri, 27 Nov 2026 23:00:32 +0000",
+   "published": "Sat, 28 Nov 2026 15:00:27 +0000",
    "views": null,
    "score": null,
    "comments": null,
    "vertical": false,
    "author": "PsyPost",
-   "permalink": "https://www.psypost.org/how-emotional-abuse-and-family-dynamics-shape-teen-depression-over-time/",
+   "permalink": "https://www.psypost.org/calming-kids-with-screens-creates-a-developmental-feedback-loop-for-most-familie/",
    "lang": "en",
    "tags": [
     "psychedelics"
@@ -2298,22 +2320,22 @@
    "breaking": false
   },
   {
-   "id": "rss:3706452884",
+   "id": "rss:129928192486",
    "platform": "article",
    "source": "PsyPost",
    "topic": "psychedelics",
    "own": false,
-   "title": "More REM sleep is linked to lower risk of dozens of diseases, wearable data from 95,000 adults suggest",
-   "url": "https://www.psypost.org/more-rem-sleep-is-linked-to-lower-risk-of-dozens-of-diseases-wearable-data-from-95000-adults-suggest/",
+   "title": "Pain is most closely tied to how healthy people feel, while anxiety and depression are most closely tied to happiness",
+   "url": "https://www.psypost.org/pain-is-most-closely-tied-to-how-healthy-people-feel-while-anxiety-and-depression-are-most-closely-tied-to-happiness/",
    "embed": "",
    "thumbnail": "",
-   "published": "Fri, 27 Nov 2026 21:00:28 +0000",
+   "published": "Sat, 28 Nov 2026 15:00:03 +0000",
    "views": null,
    "score": null,
    "comments": null,
    "vertical": false,
    "author": "PsyPost",
-   "permalink": "https://www.psypost.org/more-rem-sleep-is-linked-to-lower-risk-of-dozens-of-diseases-wearable-data-from-95000-adults-suggest/",
+   "permalink": "https://www.psypost.org/pain-is-most-closely-tied-to-how-healthy-people-feel-while-anxiety-and-depression-are-most-closely-tied-to-happiness/",
    "lang": "en",
    "tags": [
     "psychedelics"
@@ -2321,7 +2343,30 @@
    "breaking": false
   },
   {
-   "id": "rss:455124087020",
+   "id": "rss:836186665942",
+   "platform": "article",
+   "source": "PsyPost",
+   "topic": "psychedelics",
+   "own": false,
+   "title": "Psychology says killing you with kindness isn’t about winning everyone’s approval — it tracks with something far more candid",
+   "url": "https://www.psypost.org/psychology-says-killing-you-with-kindness-isnt-about-winning-everyones-approval-it-tracks-with-something-far-more-candid/",
+   "embed": "",
+   "thumbnail": "",
+   "published": "Sat, 28 Nov 2026 14:00:03 +0000",
+   "views": null,
+   "score": null,
+   "comments": null,
+   "vertical": false,
+   "author": "PsyPost",
+   "permalink": "https://www.psypost.org/psychology-says-killing-you-with-kindness-isnt-about-winning-everyones-approval-it-tracks-with-something-far-more-candid/",
+   "lang": "en",
+   "tags": [
+    "psychedelics"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "rss:471216780143",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2345,30 +2390,7 @@
    "breaking": true
   },
   {
-   "id": "rss:534584396551",
-   "platform": "article",
-   "source": "PsyPost",
-   "topic": "psychedelics",
-   "own": false,
-   "title": "Your scrambled eggs aren’t just breakfast —  scientists found eating at least five a week is linked to a 27 percent lower Alzheimer’s risk",
-   "url": "https://www.psypost.org/your-scrambled-eggs-arent-just-breakfast-scientists-found-eating-at-least-five-a-week-is-linked-to-a-27-percent-lower-alzheimers-risk/",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Fri, 27 Nov 2026 19:00:30 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "PsyPost",
-   "permalink": "https://www.psypost.org/your-scrambled-eggs-arent-just-breakfast-scientists-found-eating-at-least-five-a-week-is-linked-to-a-27-percent-lower-alzheimers-risk/",
-   "lang": "en",
-   "tags": [
-    "psychedelics"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "rss:247564102351",
+   "id": "rss:596143068119",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2392,7 +2414,7 @@
    "breaking": true
   },
   {
-   "id": "rss:989565272029",
+   "id": "rss:543554189676",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2416,7 +2438,7 @@
    "breaking": true
   },
   {
-   "id": "rss:564124187518",
+   "id": "rss:226143261833",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2440,7 +2462,7 @@
    "breaking": true
   },
   {
-   "id": "rss:39703673199",
+   "id": "rss:484093818535",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2464,7 +2486,7 @@
    "breaking": true
   },
   {
-   "id": "rss:391350550600",
+   "id": "rss:393219574383",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2488,7 +2510,7 @@
    "breaking": true
   },
   {
-   "id": "rss:839962691215",
+   "id": "rss:924419792138",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2512,7 +2534,7 @@
    "breaking": true
   },
   {
-   "id": "rss:763948584752",
+   "id": "rss:406450717609",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2536,7 +2558,7 @@
    "breaking": true
   },
   {
-   "id": "rss:967573376668",
+   "id": "rss:702325198781",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2560,7 +2582,7 @@
    "breaking": true
   },
   {
-   "id": "rss:401549910202",
+   "id": "rss:258650903227",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2584,7 +2606,7 @@
    "breaking": true
   },
   {
-   "id": "rss:661078533872",
+   "id": "rss:17859606484",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2608,7 +2630,7 @@
    "breaking": true
   },
   {
-   "id": "rss:336604405959",
+   "id": "rss:738615046455",
    "platform": "article",
    "source": "Psychedelic Alpha",
    "topic": "psychedelics",
@@ -2666,7 +2688,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/5Uf4rvWWiP4",
    "thumbnail": "https://i2.ytimg.com/vi/5Uf4rvWWiP4/hqdefault.jpg",
    "published": "2026-11-26T10:00:37+00:00",
-   "views": 37,
+   "views": 39,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2714,7 +2736,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/FJi6-A5ju-Q",
    "thumbnail": "https://i3.ytimg.com/vi/FJi6-A5ju-Q/hqdefault.jpg",
    "published": "2026-11-26T10:00:31+00:00",
-   "views": 93,
+   "views": 105,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2762,7 +2784,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/DjpuJsVGBmI",
    "thumbnail": "https://i1.ytimg.com/vi/DjpuJsVGBmI/hqdefault.jpg",
    "published": "2026-11-26T10:00:23+00:00",
-   "views": 47,
+   "views": 49,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2824,7 +2846,7 @@
    "breaking": true
   },
   {
-   "id": "rss:656236987681",
+   "id": "rss:93223073372",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -2859,7 +2881,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/ZPAH8JBkX_A",
    "thumbnail": "https://i3.ytimg.com/vi/ZPAH8JBkX_A/hqdefault.jpg",
    "published": "2026-11-24T21:00:24+00:00",
-   "views": 504,
+   "views": 506,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -2873,7 +2895,7 @@
    "breaking": true
   },
   {
-   "id": "rss:57046784343",
+   "id": "rss:392578562082",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2897,7 +2919,7 @@
    "breaking": true
   },
   {
-   "id": "rss:38800712577",
+   "id": "rss:556772011661",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -2921,7 +2943,7 @@
    "breaking": true
   },
   {
-   "id": "rss:220034709652",
+   "id": "rss:473549177314",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -2945,7 +2967,7 @@
    "breaking": true
   },
   {
-   "id": "rss:872254379100",
+   "id": "rss:70581388671",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -2979,7 +3001,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/_ol0gbZ1TIs",
    "thumbnail": "https://i4.ytimg.com/vi/_ol0gbZ1TIs/hqdefault.jpg",
    "published": "2026-11-24T18:33:04+00:00",
-   "views": 279,
+   "views": 280,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -3003,7 +3025,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/9rp3Z2Tt67k",
    "thumbnail": "https://i2.ytimg.com/vi/9rp3Z2Tt67k/hqdefault.jpg",
    "published": "2026-11-23T21:00:37+00:00",
-   "views": 424,
+   "views": 430,
    "score": null,
    "comments": null,
    "vertical": true,
@@ -3017,7 +3039,7 @@
    "breaking": true
   },
   {
-   "id": "rss:187470663878",
+   "id": "rss:591869985053",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -3041,7 +3063,7 @@
    "breaking": true
   },
   {
-   "id": "rss:198840036124",
+   "id": "rss:74769997210",
    "platform": "article",
    "source": "Ganjapreneur",
    "topic": "cannabis",
@@ -3065,7 +3087,7 @@
    "breaking": true
   },
   {
-   "id": "rss:202530036993",
+   "id": "rss:494338632098",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -3089,7 +3111,7 @@
    "breaking": true
   },
   {
-   "id": "rss:217045450611",
+   "id": "rss:847111568470",
    "platform": "article",
    "source": "High Times",
    "topic": "cannabis",
@@ -3113,7 +3135,7 @@
    "breaking": true
   },
   {
-   "id": "rss:550601687852",
+   "id": "rss:740941215374",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3172,7 +3194,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/XMsHUhDY_-k",
    "thumbnail": "https://i1.ytimg.com/vi/XMsHUhDY_-k/hqdefault.jpg",
    "published": "2026-11-22T21:00:30+00:00",
-   "views": 1606,
+   "views": 1608,
    "score": null,
    "comments": null,
    "vertical": true,
@@ -3186,7 +3208,7 @@
    "breaking": true
   },
   {
-   "id": "rss:653640037560",
+   "id": "rss:824481334485",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3210,7 +3232,7 @@
    "breaking": true
   },
   {
-   "id": "rss:118293545391",
+   "id": "rss:461910685913",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -3234,7 +3256,7 @@
    "breaking": true
   },
   {
-   "id": "rss:669491981856",
+   "id": "rss:748115886073",
    "platform": "article",
    "source": "Cannabis Now",
    "topic": "cannabis",
@@ -3268,7 +3290,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/D2khyR8KYbw",
    "thumbnail": "https://i1.ytimg.com/vi/D2khyR8KYbw/hqdefault.jpg",
    "published": "2026-11-21T21:00:12+00:00",
-   "views": 1535,
+   "views": 1536,
    "score": null,
    "comments": null,
    "vertical": true,
@@ -3282,7 +3304,7 @@
    "breaking": true
   },
   {
-   "id": "rss:457423121256",
+   "id": "rss:377530489786",
    "platform": "article",
    "source": "Talking Drugs",
    "topic": "legalization",
@@ -3340,7 +3362,7 @@
    "embed": "https://www.youtube-nocookie.com/embed/3xCWaRAAjd0",
    "thumbnail": "https://i4.ytimg.com/vi/3xCWaRAAjd0/hqdefault.jpg",
    "published": "2026-11-19T21:00:11+00:00",
-   "views": 1253,
+   "views": 1256,
    "score": null,
    "comments": null,
    "vertical": false,
@@ -3354,7 +3376,7 @@
    "breaking": true
   },
   {
-   "id": "rss:731250076724",
+   "id": "rss:769872637181",
    "platform": "article",
    "source": "DoubleBlind",
    "topic": "psychedelics",
@@ -3373,31 +3395,6 @@
    "lang": "en",
    "tags": [
     "psychedelics",
-    "breaking"
-   ],
-   "breaking": true
-  },
-  {
-   "id": "rss:304617981588",
-   "platform": "article",
-   "source": "NORML News",
-   "topic": "legalization",
-   "own": false,
-   "title": "Pennsylvania: Senate Flip Provides Pathway for Adult-Use Legalization",
-   "url": "https://norml.org/blog/2026/11/09/pennsylvania-senate-flip-provides-pathway-for-adult-use-legalization/",
-   "embed": "",
-   "thumbnail": "",
-   "published": "Mon, 09 Nov 2026 15:08:09 +0000",
-   "views": null,
-   "score": null,
-   "comments": null,
-   "vertical": false,
-   "author": "NORML News",
-   "permalink": "https://norml.org/blog/2026/11/09/pennsylvania-senate-flip-provides-pathway-for-adult-use-legalization/",
-   "lang": "en",
-   "tags": [
-    "legalization",
-    "usa",
     "breaking"
    ],
    "breaking": true
